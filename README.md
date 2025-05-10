@@ -35,7 +35,7 @@ ecovs/
 - Font Awesome
 
 🌐 Live Demo
-🚧 Coming soon on Netlify
+
 https://ecovibezz.netlify.app/ 
 
 ![Screenshot 2025-05-10 094628](https://github.com/user-attachments/assets/46c8c67f-c539-419c-a812-2712224bb074)
